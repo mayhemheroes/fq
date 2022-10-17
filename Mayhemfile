@@ -1,0 +1,6 @@
+project: fq
+target: fq
+
+# List of commands used to test the target
+cmds:
+  - cmd: /fq . @@
